@@ -1,7 +1,5 @@
 # **Marina Rak**
-***
 ## **Junior Frontend Developer**
-***
 ### **Contact information:**
 * **Location:** Brest, Belarus
 * **Phone:** +375298809874
