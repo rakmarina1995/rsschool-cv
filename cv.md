@@ -19,7 +19,7 @@ I have a great desire to achieve high progress in Frontend development, so I spe
 * Figma/Photoshop
 ***
 ### **Code example:**
-   ``` 
+``` 
    $('#form_btn').click(function (e) {
         e.preventDefault();
         let elements = $('.order input');
@@ -36,10 +36,11 @@ I have a great desire to achieve high progress in Frontend development, so I spe
         $('#order_text').show();
         $('#form').hide();
     });
-    ```
+```
 
-    **One of my works:** [https://github.com/rakmarina1995/cars-app.git](https://github.com/rakmarina1995/cars-app.git)
+**One of my works:**
+[https://github.com/rakmarina1995/cars-app.git](https://github.com/rakmarina1995/cars-app.git)
 ### **Education:**
-    * Brest State A.S. Pushkin University*
+* Brest State A.S. Pushkin University*
 ### **Languages:**
-    * English - A2 (B1 in process)
+* English - A2 (B1 in process)
