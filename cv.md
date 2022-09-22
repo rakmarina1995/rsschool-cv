@@ -38,9 +38,11 @@ I have a great desire to achieve high progress in Frontend development, so I spe
     });
 ```
 
-**One of my works:**
+**Example of my work:**
 [https://github.com/rakmarina1995/cars-app.git](https://github.com/rakmarina1995/cars-app.git)
+***
 ### **Education:**
-* Brest State A.S. Pushkin University*
+* Brest State A.S. Pushkin University
+***
 ### **Languages:**
 * English - A2 (B1 in process)
